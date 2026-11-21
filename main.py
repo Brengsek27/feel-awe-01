@@ -9,9 +9,9 @@ import sys
 
 # Fixed text to be written – must stay exactly as specified.
 TEXT = (
-    "High on the ridge, a pine has been watching storms for five thousand years. "
-    "Its roots hold. Its needles open to the rain. Nothing in it is braced. "
-    "Nothing in it is behind."
+    "Far below, a river is cutting stone one grain at a time, patient as breath. "
+    "It has been on its way for six million years and is not late. "
+    "Your hurry is very young here. Already, it is tired."
 )
 
 

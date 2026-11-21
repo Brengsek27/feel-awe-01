@@ -11,9 +11,9 @@ import sys
 
 # Fixed text to be written – must stay exactly as specified.
 TEXT = (
-    "Snow that fell before your language had words for snow is still resting on the glacier, soft, unhurried, nowhere to be. "
-    "It has kept the same white silence for ten thousand years. "
-    "For this one moment, so can you."
+    "A blue whale passes beneath the boat, longer than the boat, older than the captain. "
+    "Its heart is the size of a small car. It does not hurry. "
+    "For one held breath, neither do you."
 )
 
 
@@ -28,6 +28,7 @@ def validate(text: str) -> None:
         raise ValueError("Text must contain non‑whitespace characters.")
 
 
+# The main entry point now uses the updated poetic text.
 def main() -> None:
     # Validate the constant text.
     validate(TEXT)

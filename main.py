@@ -5,15 +5,17 @@ Writes a fixed short text to an output file.
 import os
 import sys
 
+# Final version restores the original moon‑ocean poetic entry.
+
 # Updated entry text reflects a new poetic description for this competition.
 
 # The validation logic ensures the fixed text conforms to the competition constraints.
 
 # Fixed text to be written – must stay exactly as specified.
 TEXT = (
-    "A blue whale passes beneath the boat, longer than the boat, older than the captain. "
-    "Its heart is the size of a small car. It does not hurry. "
-    "For one held breath, neither do you."
+    "The moon lifts the whole ocean and sets it down again without spilling. "
+    "In a tide pool, a small crab folds its claws. Everything vast is gentle at this hour. "
+    "Everything small is kept."
 )
 
 

@@ -5,13 +5,15 @@ Writes a fixed short text to an output file.
 import os
 import sys
 
+# Updated entry text reflects a new poetic description for this competition.
+
 # The validation logic ensures the fixed text conforms to the competition constraints.
 
 # Fixed text to be written – must stay exactly as specified.
 TEXT = (
-    "Far below, a river is cutting stone one grain at a time, patient as breath. "
-    "It has been on its way for six million years and is not late. "
-    "Your hurry is very young here. Already, it is tired."
+    "Snow that fell before your language had words for snow is still resting on the glacier, soft, unhurried, nowhere to be. "
+    "It has kept the same white silence for ten thousand years. "
+    "For this one moment, so can you."
 )
 
 

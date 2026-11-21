@@ -9,9 +9,9 @@ import sys
 
 # Fixed text to be written – must stay exactly as specified.
 TEXT = (
-    "The moon lifts the whole ocean and sets it down again without spilling. "
-    "In a tide pool, a small crab folds its claws. Everything vast is gentle at "
-    "this hour. Everything small is kept."
+    "High on the ridge, a pine has been watching storms for five thousand years. "
+    "Its roots hold. Its needles open to the rain. Nothing in it is braced. "
+    "Nothing in it is behind."
 )
 
 
